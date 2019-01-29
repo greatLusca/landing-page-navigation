@@ -1,7 +1,10 @@
+/* Initial */
 *{
     margin: 0;
     padding: 0;
 }
+
+/* Navegação */
 
 nav{
     position: relative;    
@@ -23,6 +26,8 @@ nav{
     transition: all 1s;
 }
 
+
+
 #rb-serie3:checked ~ #content{
     margin-top: -1236px;
     transition: all 1s;
@@ -39,7 +44,7 @@ input[type=radio]{
 }
 
 label{
-    padding: 6px 12px;
+    padding: 20px 12px;
     text-align: center;
 }
 
