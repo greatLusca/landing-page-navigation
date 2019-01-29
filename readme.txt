@@ -1,2 +1,1 @@
-landing page com label
-html + css
+Teste de navegação de landing page usando apenas HTML e CSS
