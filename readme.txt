@@ -1,2 +1,2 @@
-Teste de navegação de landing page usando apenas HTML e CSS
+Navegação de landing page usando radiobuttons
 https://greatlusca.github.io/landing-page-navigation/
