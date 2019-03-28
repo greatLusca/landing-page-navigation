@@ -1,2 +1,2 @@
-Navegação de landing page usando radiobuttons
+Navegação de single page usando radiobuttons
 https://lucas-salves.github.io/landing-page-navigation/
